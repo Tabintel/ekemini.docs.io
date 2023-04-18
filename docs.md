@@ -17,3 +17,5 @@ Meta tags
 Flex
 
 "Viewport" allows us to develop web pages that are developed mobile first
+
+I built a startup landing page using HTML, CSS, and Bootstrap, I also added a sign up form with Mailchimp and a landing page.
