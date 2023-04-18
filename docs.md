@@ -1,8 +1,8 @@
 web dev course
 
-##18th-April-2023
+18th-April-2023
 
-###12:30noon - 4:00pm
+12:30noon - 4:00pm
 
 Building a startup landing page with Bootstrap on Github codespaces
 
